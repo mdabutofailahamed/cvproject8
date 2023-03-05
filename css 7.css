@@ -25,6 +25,7 @@ padding:30px;
 }
 h1,h2,h3,h4,h5,h6{
     color: #11999e;
+  
 }
 .header-contact{
     float: right;
@@ -37,7 +38,7 @@ font-weight: bold;
 }
 .header-contact a:hover{
     text-decoration: underline;
-    color: tomato;
+    color: blue;
 }
 .div-clear{
     clear: both;
@@ -114,5 +115,5 @@ tr:nth-child(even){
     background-color:rgb(0, 47, 255);
 }
 tr:hover{
-    background-color: tomato;
+    background-color: white;
 }
